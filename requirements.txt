@@ -1,0 +1,7 @@
+
+# equirements
+
+```txt
+streamlit
+openai
+spacy
