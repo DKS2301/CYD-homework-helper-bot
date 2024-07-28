@@ -10,5 +10,7 @@ pip install open ai
 pip install spacy
 
 ## install streamlit
+
+```markdown
 ```python
 pip install streamlit
